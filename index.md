@@ -4,20 +4,21 @@ You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github
 
 Year: 2021
 
-\nI am a Data Science student studying in New York City College of Technology (CUNY).
-\nI also have a Bachelors in Biomedical Informatics.
-\nI am currently residing in Brooklyn, New York.
+- I am a Data Science student studying in New York City College of Technology (CUNY).
+- I also have a Bachelors in Biomedical Informatics.
+- I am currently residing in Brooklyn, New York.
 
 ### Links
 
-You can find my resume @ [Link](Joseph Liu_Resume_2021.pdf)
+Here, you can find my: 
+[Resume](Joseph Liu_Resume_2021.pdf)
+[Github](https://github.com/StudentJL)
+[LinkedIn](www.linkedIn.com/in/joseph-liu7)
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
