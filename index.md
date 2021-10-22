@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github
 
 Year: 2021
 
-I am a Data Science student studying in New York City College of Technology (CUNY).
-I also have a Bachelors in Biomedical Informatics.
-I am currently residing in Brooklyn, New York.
+\nI am a Data Science student studying in New York City College of Technology (CUNY).
+\nI also have a Bachelors in Biomedical Informatics.
+\nI am currently residing in Brooklyn, New York.
 
 ### Links
 
