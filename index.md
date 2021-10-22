@@ -1,16 +1,16 @@
 ## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github.io/edit/main/index.md) to maintain & preview the content for your website.
 
-Year 2021,
+Year: 2021
 
-I am a Data Science student studying in New York City College of Technology.
+I am a Data Science student studying in New York City College of Technology (CUNY).
 I also have a Bachelors in Biomedical Informatics.
 I am currently residing in Brooklyn, New York.
 
-### Markdown
+### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find my resume @ [Link](Joseph Liu_Resume_2021.pdf)
 
 ```markdown
 Syntax highlighted code block
