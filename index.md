@@ -16,7 +16,7 @@ Here, you can find my:
 ```markdown
 Some of my latest projects are: 
 
-1. StudyTime: 
+1. StudyTime (Sept 2021): 
  * An online time management app (demo) that I created together with a team for the CTP Back-In-Person Hackathon. 
  * It estimates the amount of time a student needs to study to attain their desired grade in a particular course. 
  * I contributed by creating the Front-end of the website using Python and the PyWebIO library web framework. 
