@@ -11,9 +11,9 @@ Year: 2021
 ### Links
 
 Here, you can find my: 
-[Resume](Joseph Liu_Resume_2021.pdf)
-[Github](https://github.com/StudentJL)
-[LinkedIn](www.linkedIn.com/in/joseph-liu7)
+- [Resume](Joseph Liu_Resume_2021.pdf)
+- [Github Page](https://github.com/StudentJL)
+- [LinkedIn Profile](www.linkedIn.com/in/joseph-liu7)
 
 ```markdown
 Syntax highlighted code block
