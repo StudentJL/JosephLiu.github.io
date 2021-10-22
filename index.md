@@ -1,7 +1,5 @@
 ## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github.io/edit/main/index.md) to maintain & preview the content for your website.
-
 Year: 2021
 
 - I am a Data Science student studying in New York City College of Technology (CUNY).
@@ -35,6 +33,7 @@ Some of my latest projects are:
 
 [Link](url) and ![Image](src)
 ```
+You can use the [editor on GitHub](https://github.com/StudentJL/StudentJL.github.io/edit/main/index.md) to maintain & preview the content for your website.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
